@@ -13,6 +13,8 @@ library(devtools)
 # usethis::use_readme_rmd()
 # use_github_links()
 
+# use_package_doc()
+
 load_all()
 document()
 attachment::att_amend_desc()

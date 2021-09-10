@@ -1,0 +1,31 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# testBioc
+
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/abichat/testBioc/workflows/R-CMD-check/badge.svg)](https://github.com/abichat/testBioc/actions)
+<!-- badges: end -->
+
+The goal of testBioc is to ...
+
+## Installation
+
+You can install the released version of testBioc from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("abichat/testBioc")
+```

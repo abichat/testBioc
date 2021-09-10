@@ -1,3 +1,6 @@
 ^dev_history\.R$
 ^LICENSE\.md$
-^*\.Rproj$
+^\.Rproj\.user$
+^\.github$
+^README\.Rmd$
+^testBioc\.Rproj$

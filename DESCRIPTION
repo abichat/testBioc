@@ -9,6 +9,8 @@ Authors@R:
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: What the package does (one paragraph).
 License: CC0
+URL: https://github.com/abichat/testBioc
+BugReports: https://github.com/abichat/testBioc/issues
 Imports: 
     glue
 Encoding: UTF-8

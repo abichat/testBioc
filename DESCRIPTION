@@ -12,7 +12,6 @@ Imports:
     Biobase,
     ComplexHeatmap,
     glue,
-    igraph,
     mixOmics
 Remotes:
     bioc::release/Biobase,
